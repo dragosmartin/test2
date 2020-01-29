@@ -1,3 +1,4 @@
+//This is a comment here
 /* ========================================================
  * bootstrap-tab.js v2.0.2
  * http://twitter.github.com/bootstrap/javascript.html#tabs
