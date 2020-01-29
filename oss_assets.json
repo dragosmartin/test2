@@ -1,6 +1,6 @@
 [
   {
-    "component": "test_component",
+    "component": "openssl",
     "type": "test",
     "comment": "this is a test case"
   }, {
