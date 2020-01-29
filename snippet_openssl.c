@@ -20,7 +20,6 @@ unsigned char *buf, *wbuf;
 //this is a comment line
 //this is a comment line
 //this is a comment line
-//this is a comment line
     ERR_clear_error();
 
     rbio = SSL_get_rbio(s);
