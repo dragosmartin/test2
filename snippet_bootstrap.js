@@ -32,13 +32,6 @@
   Tab.prototype = {
 
     constructor: Tab
-    //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
-
   , show: function () {
       var $this = this.element
         , $ul = $this.closest('ul:not(.dropdown-menu)')
