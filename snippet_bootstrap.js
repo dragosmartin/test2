@@ -35,9 +35,6 @@
     //This is a comment line	
     //This is a comment line	
     //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
-    //This is a comment line	
 
   , show: function () {
       var $this = this.element
