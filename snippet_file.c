@@ -13,7 +13,14 @@ unsigned char *buf, *wbuf;
     /* Ensure there is no state left over from a previous invocation */
     if (!SSL_clear(s))
         return -1;
-
+//this is a comment line
+//this is a comment line
+//this is a comment line
+//this is a comment line
+//this is a comment line
+//this is a comment line
+//this is a comment line
+//this is a comment line
     ERR_clear_error();
 
     rbio = SSL_get_rbio(s);
